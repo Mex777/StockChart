@@ -7,7 +7,6 @@ body {
 }
 
 div {
-  width: 500px;
-  height: 500px;
-  overflow: hidden;
+  width: 75vh;
+  height: 75vh;
 }
